@@ -18,5 +18,10 @@ Modif {
       blabla
 }
 
+Modif 2 {
+      Ceci est une
+      autre modif
+}
+
 
 test_field = "Car20"
