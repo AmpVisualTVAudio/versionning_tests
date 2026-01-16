@@ -12,4 +12,11 @@ ip = [20.20.20.20,
 pass = passwd_test
 
 
+Modif {
+      Ceci est une modification
+      test test 
+      blabla
+}
+
+
 test_field = "CarXXXXXX"
