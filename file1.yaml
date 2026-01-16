@@ -23,5 +23,9 @@ Modif 2 {
       autre modif
 }
 
+Modif 3 {
+      modif depuis Car20
+}
 
-test_field = "CarXXXXXX"
+
+test_field = "Car20"
